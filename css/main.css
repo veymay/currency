@@ -82,7 +82,7 @@ button {
 }
 
 ul.list {
-  height: 345px;
+  height: 415px;
   overflow: auto;
   display: flex;
   flex-direction: column;
